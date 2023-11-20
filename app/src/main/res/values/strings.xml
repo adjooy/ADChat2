@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AD Chat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password</string>
+    <string name="sign_in_to_continew">Sign In to Continew</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up!</string>
+    <string name="user_name_email">User Name/Email</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="add_profile_picture">Add Profile Picture</string>
+    <string name="password_again">Password Again</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_new_account">Create new account!</string>
+    <string name="name">Name</string>
+    <string name="ad_chat">AD CHAT</string>
+    <string name="logout">Logout</string>
+</resources>

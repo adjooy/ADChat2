@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561390120530",
+    "project_id": "ad-chat-a3cf1",
+    "storage_bucket": "ad-chat-a3cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561390120530:android:7efca6cd5e26420475798b",
+        "android_client_info": {
+          "package_name": "com.example.adchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYAhLfidRNzqb0kDretYOBDuZ9cdpVKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
