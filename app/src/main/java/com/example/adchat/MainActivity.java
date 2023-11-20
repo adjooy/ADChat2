@@ -12,7 +12,6 @@ import com.google.firebase.auth.FirebaseUser;
 import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
-    private Handler handler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Objects.requireNonNull(getSupportActionBar()).hide();
 
-        handler = new Handler();
+        Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {

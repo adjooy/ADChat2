@@ -24,7 +24,6 @@ import java.util.Objects;
 public class login extends AppCompatActivity {
 
     private FirebaseAuth auth;
-    private Button loginButton, createAccount;
     private EditText logMail, logPassword;
 
     @Override
@@ -42,8 +41,8 @@ public class login extends AppCompatActivity {
         }
 
         // Initialize views
-        createAccount = findViewById(R.id.createAccount);
-        loginButton = findViewById(R.id.loginButton);
+        Button createAccount = findViewById(R.id.createAccount);
+        Button loginButton = findViewById(R.id.loginButton);
         logMail = findViewById(R.id.rgName);
         logPassword = findViewById(R.id.rgPass2);
 
